@@ -9,5 +9,12 @@ int main()
 	cout << "Hello WORLD" << endl;
 	cout << "durnelis" << endl;
 
-	return 0;
+	haahahhaah
+		hahahahaah
+		hahahaha
+		hahahaxaxaxa
+		xa
+		axax
+		xa
+		xa
 }

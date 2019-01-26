@@ -1,2 +1,17 @@
 ﻿  Source.cpp
-  Project1.vcxproj -> Z:\Programavimo architektura\Project1\Debug\Project1.exe
+z:\githubas2\project1\project1\source.cpp(12): error C2065: 'haahahhaah': undeclared identifier
+z:\githubas2\project1\project1\source.cpp(14): error C2146: syntax error: missing ';' before identifier 'hahahahaah'
+z:\githubas2\project1\project1\source.cpp(13): error C2065: 'hahahahaah': undeclared identifier
+z:\githubas2\project1\project1\source.cpp(15): error C2146: syntax error: missing ';' before identifier 'hahahaha'
+z:\githubas2\project1\project1\source.cpp(14): error C2065: 'hahahaha': undeclared identifier
+z:\githubas2\project1\project1\source.cpp(16): error C2146: syntax error: missing ';' before identifier 'hahahaxaxaxa'
+z:\githubas2\project1\project1\source.cpp(15): error C2065: 'hahahaxaxaxa': undeclared identifier
+z:\githubas2\project1\project1\source.cpp(17): error C2146: syntax error: missing ';' before identifier 'xa'
+z:\githubas2\project1\project1\source.cpp(16): error C2065: 'xa': undeclared identifier
+z:\githubas2\project1\project1\source.cpp(18): error C2146: syntax error: missing ';' before identifier 'axax'
+z:\githubas2\project1\project1\source.cpp(17): error C2065: 'axax': undeclared identifier
+z:\githubas2\project1\project1\source.cpp(19): error C2146: syntax error: missing ';' before identifier 'xa'
+z:\githubas2\project1\project1\source.cpp(18): error C2065: 'xa': undeclared identifier
+z:\githubas2\project1\project1\source.cpp(20): error C2146: syntax error: missing ';' before identifier 'xa'
+z:\githubas2\project1\project1\source.cpp(19): error C2065: 'xa': undeclared identifier
+z:\githubas2\project1\project1\source.cpp(20): error C2143: syntax error: missing ';' before '}'
